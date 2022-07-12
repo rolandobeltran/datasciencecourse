@@ -1,2 +1,2 @@
-# datasciencecourse
-This is a space for beginner exercises on data science
+# Data Science For All Course activities
+This is a space for code developed at the MinTic Colombia Data Science certification program 
